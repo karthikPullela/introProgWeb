@@ -1,0 +1,183 @@
+* {
+	background-color: #ffffff;   /*ddddff*/
+	margin: 0;
+	padding: 0;
+}
+
+#body {
+	line-height: 1.14;
+}
+
+#banner {
+	text-align: center;
+	color: #ffffff;
+	height: 185px;
+    /*box-shadow: 0px 100px 100px #888888;*/
+}
+
+#options {
+	/*padding-top: 5px;*/
+	background-color: #3e2723;
+	font-family: "Montserrat";
+	font-weight: 300; 
+	font-size: 110%;
+	box-shadow: 0px 2px 5px #3e2723;
+}
+
+.optBtnDiv {
+	background-color: inherit;
+	border: 1px solid #3e2723;
+	color: #ffffff;
+	padding: 0;
+}
+
+.optBtn {
+	background-color: inherit;
+	border: 1px solid #3e2723;
+	color: #ffffff;
+	padding: 5px 0px 5px 0px;
+}
+
+#logo {
+	padding: 50px 0px 0px 30px;
+	background-color: inherit;
+	color: #ffffff;
+	text-align: left;
+	font-size: 40px;
+}
+
+#menuBtn {
+	background-color: #3e2723;
+}
+
+.testSmall {
+	font-size: 500%;
+	color: #FF0000;
+	padding-top: 20px;
+}
+
+.title {
+	font-family: "Courier New";   
+	height: 137px;           
+	font-size: 800%;
+	margin: 0;
+	padding-top: 15px;
+	background-color: inherit;    /*3e2723*/
+}
+
+#subtitle {
+	font-family: "Courier New";
+	height: 27px;
+	font-size: 165%;
+	background-color: #5D4037;    /*000088*/
+	font-weight: 300;
+	margin: 0;
+	box-shadow: 0px 2px 5px #3e2723;
+}
+
+.sec {
+	height: 280px;   /*179*/
+}
+
+.secTitle {
+	text-align: center;
+	color: #5D4037;           /*3e2723*/
+	font-size: 345%;
+	font-family: "Montserrat";
+	/*opacity: 0.87;*/
+	font-weight: 500;
+	padding: 0px 50px 0px 50px;
+	margin: 0;
+	background-color: inherit;
+
+}
+
+.secPara {
+	font-family:"Montserrat"; 
+	text-align: center;
+	font-weight:300; 
+	padding: 0px 50px 0px 50px; 
+	font-size: 160%;
+	padding-bottom: 5px;
+	margin: 0;
+	background-color: inherit;
+	color: #000000;
+}
+
+.alt {
+	background-color: #eeeeee;
+}
+
+.altTitle {
+	background-color: inherit;
+	background-image: none;
+}
+
+.altPara {
+	background-color: inherit; 
+	background-image: none;
+	color: #000000;
+}
+
+#welcome {
+	height: 200px;
+}
+
+#about {
+	height: 300px;
+}
+
+#register {
+	height: 200px;
+}
+
+#contact {
+	height: 200px;
+}
+
+#faqS {
+	height: 800px;
+}
+
+#faqSContent {
+	padding-left: 80px;
+	padding-right: 80px;
+	list-style-type: none;
+}
+
+.questions {
+	font-family: "Montserrat";
+	font-size: 250%;
+}
+
+.answers {
+	font-family: "Montserrat";
+	font-size: 130%;
+	line-height: 150%;
+	color: #000000;
+	text-align: justify;
+}
+
+.aboutLangs {
+	background-color: inherit; 
+	background-image: none;
+	font-family: "Montserrat"; 
+	text-align: center;
+	font-size: inherit;
+}
+
+#cpRight {
+	background-color: #3e2723;
+	clear: both;
+	text-align: center;
+	color: #ffffff;
+	font-family: "Montserrat";
+	font-weight: 300;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 0px -2px 5px #3e2723;
+}
+
+#hsegjh{
+	overflow: a
+}
